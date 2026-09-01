@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pyo
+build/
+dist/
+FocusLock.exe
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
